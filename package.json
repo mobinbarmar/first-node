@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/mobinbarmar/first-node/issues"
   },
-  "homepage": "https://github.com/mobinbarmar/first-node#readme",
-  "dependencies": {
-    "chalk": "^5.0.1"
-  }
+  "homepage": "https://github.com/mobinbarmar/first-node#readme"
 }
